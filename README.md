@@ -165,7 +165,7 @@ If you are only interested in the cleaning parts run all the code and close the 
 Download the folder named "730022777" and take the "luxury_goods_project" folder OUT of it. Save this to your computer. 
 
 ### Step 2 
-Open the whole "luxury_goods_project" folder on VScode
+Open the whole "luxury_goods_project" folder on VScode. All the files and folders within the "luxury_goods_project" should now be listed on left-hand side of the screen. You can use other platforms to open the code, however, given the code uses lots of csv files, it is easier to replicate using vscode.
 
 ### Step 3 
 Next, open "visualisations_code.ipynb"
